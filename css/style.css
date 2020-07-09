@@ -1,0 +1,90 @@
+
+/* custom css here */
+
+
+p{
+    font-size: 20px;
+}
+
+
+.container-fluid{
+    background-color: #f0fff0;
+}
+
+.logo{
+    width: 200px;
+}
+
+
+.nav-item-bg{
+    background-color: #21b573;
+    border-radius: 25px;
+}
+
+.nav-item{
+    padding: 0px 20px;
+}
+
+
+.button{
+    background-color: #21b573;
+    color: #fff;
+    border: none;
+    padding: 10px 25px;
+    border-radius: 25px;
+}
+
+.img-card{
+    width: 50%;
+}
+
+.card{
+    border: none;
+    box-shadow: 0 4px 10px lightgray;
+    padding: 20px 0;
+    border-radius: 10px;
+}
+
+
+.card-bg{
+    border: none;
+    background-color: #f0fff0;
+}
+
+.card:hover,
+.card:focus{
+    background-color: #fff;
+
+}
+
+.link-card{
+    color: #333;
+}
+.link-card:hover,
+.link-card:focus{
+    color: #333;
+    text-decoration: none;
+}
+
+.courses-img{
+    width: 90%;
+    border-radius: 10px;
+}
+
+.fa{
+    margin-right: 5px;
+}
+
+#footer{
+    background-color: #282531;
+}
+
+.footer-link{
+    color: #ccc;
+}
+
+
+
+/* END OF CUSTOM CSS */
+
+
